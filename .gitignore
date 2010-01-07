@@ -5,7 +5,5 @@
 # *.[oa]
 *~
 .DS_Store
-Designs/Bio-belt/Through Hole/Bio-Belt_TH.b#1
-Designs/Bio-belt/Through Hole/Bio-Belt_TH.b#2
-Designs/Bio-belt/Through Hole/Bio-Belt_TH.s#1
-Designs/Bio-belt/Through Hole/Bio-Belt_TH.s#2
+*.b#*
+*.s#*
